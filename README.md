@@ -56,10 +56,9 @@ The pipeline outputs a ranked table of the 10 most relevant job postings for the
 
 **Requirements:** Python 3.9+
 
-1. Clone the repository:
+1. Clone the repository and navigate into the project folder:
    ```bash
    git clone <your-repo-url>
-   cd Project-1A
    ```
 
 2. Create and activate a virtual environment:
