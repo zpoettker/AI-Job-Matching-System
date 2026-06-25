@@ -1,0 +1,34 @@
+{
+  "salary_min": 114759.81,
+  "title": "Software Engineer",
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "created": "2026-06-18T10:36:45Z",
+  "contract_time": "full_time",
+  "location": {
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Saint Louis, Saint Louis County"
+  },
+  "id": "5768197130",
+  "redirect_url": "https://www.adzuna.com/land/ad/5768197130?se=8hh3PNNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=1B04DB65EEAAA44DEBEC55AE9B97E4015A1F3ACF",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODE5NzEzMCIsInMiOiI4aGgzUE5OdzhSR0N6YzZEZFZGTU9BIn0.po1EUbmNs56_ARuDjVhDREEB3Rdd96dxZV1ZL3RaRH4",
+  "latitude": 38.630539,
+  "salary_is_predicted": "1",
+  "salary_max": 114759.81,
+  "company": {
+    "display_name": "London Stock Exchange Group",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "tag": "it-jobs",
+    "label": "IT Jobs"
+  },
+  "longitude": -90.192822,
+  "description": "LSEG offers essential platforms, financial data services and trading venues for various clients such as businesses, governments, and investors around the globe. The real-time market data, indices, analytics, and news services LSEG supplies allows traders and investors understand market conditions and trends. We deliver the infrastructure, data, and analytics that market participants rely on to make confident, informed investment decisions. LSEG is dedicated to empowering economies and enabling \u2026"
+}

@@ -1,0 +1,33 @@
+{
+  "category": {
+    "label": "IT Jobs",
+    "tag": "it-jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "id": "5680150738",
+  "location": {
+    "display_name": "Saint Louis, Saint Louis County",
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ]
+  },
+  "longitude": -90.192822,
+  "redirect_url": "https://www.adzuna.com/land/ad/5680150738?se=_KC1PtNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=CEBDB5D90D694A13250B187EEFBF1FC9F25B7FC6",
+  "description": "Freedom Technology Solutions Group is seeking a Software Developer to support our client\u2019s intelligence analysis products and capabilities. This position involves providing software development capabilities to enhance existing and emerging client capabilities, including design and development, modernization of existing applications and services, and operations and sustainment. The role focuses on driving the client\u2019s adaptation of higher levels of automation and operational efficiency through a\u2026",
+  "title": "Senior Software Engineer",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MDE1MDczOCIsInMiOiJfS0MxUHROdzhSR0N6YzZEZFZGTU9BIn0.xf8G3KE6P7DURJ2KycVXy-Lhxux54dd_lFTwRRWq4xE",
+  "salary_min": 184100.42,
+  "salary_is_predicted": "1",
+  "latitude": 38.630539,
+  "company": {
+    "display_name": "Freedom Technology Solutions Group",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "salary_max": 184100.42,
+  "created": "2026-03-27T04:27:21Z"
+}

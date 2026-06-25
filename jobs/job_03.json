@@ -1,0 +1,34 @@
+{
+  "id": "5768197374",
+  "location": {
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Saint Louis, Saint Louis County"
+  },
+  "contract_time": "full_time",
+  "redirect_url": "https://www.adzuna.com/land/ad/5768197374?se=8hh3PNNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=ED81125F79AFA4139674634EDC38D52A7091FB94",
+  "title": "C++ Software Engineer",
+  "salary_min": 110553.57,
+  "created": "2026-06-18T10:36:48Z",
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "label": "IT Jobs",
+    "tag": "it-jobs"
+  },
+  "description": "LSEG offers essential platforms, financial data services and trading venues for various clients such as businesses, governments, and investors around the globe. The real-time market data, indices, analytics, and news services LSEG supplies allows traders and investors understand market conditions and trends. We deliver the infrastructure, data, and analytics that market participants rely on to make confident, informed investment decisions. LSEG is dedicated to empowering economies and enabling \u2026",
+  "longitude": -90.192822,
+  "salary_is_predicted": "1",
+  "latitude": 38.630539,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGhoM1BOTnc4UkdDemM2RGRWRk1PQSIsImkiOiI1NzY4MTk3Mzc0In0.QTIyD0n2NPvuxFkFBaCNLJGR2bt9BEA28NlJ1357Wew",
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "London Stock Exchange Group"
+  },
+  "salary_max": 110553.57
+}

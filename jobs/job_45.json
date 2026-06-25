@@ -1,0 +1,33 @@
+{
+  "category": {
+    "label": "IT Jobs",
+    "tag": "it-jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "created": "2026-03-24T22:49:41Z",
+  "salary_is_predicted": "0",
+  "redirect_url": "https://www.adzuna.com/land/ad/5677650282?se=JHv_PdNw8RGem4TAUNlqXw&utm_medium=api&utm_source=0ac86286&v=F92959C269AEAE116BD21E41802C3B74E5752ABA",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3NzY1MDI4MiIsInMiOiJKSHZfUGROdzhSR2VtNFRBVU5scVh3In0.P64JH-s60NUa-CzrvyE-xAPLwdSxV4rjtS9d8GVyd0s",
+  "longitude": -90.192822,
+  "title": "Software Engineer",
+  "location": {
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Saint Louis, Saint Louis County",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ]
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "latitude": 38.630539,
+  "id": "5677650282",
+  "description": "Role Expectations Demonstrates technical excellence and competency. Relies on supervision to complete tasks; works independently or with support from more senior SE. Builds internal network of business and technical relationships. Research and Analysis Work with Business Analysts and management to ensure the requirements and proposed solution align and meet architectural standards. Work with development lead to analyze functional and technical requirements for issues. Review functional and tech\u2026",
+  "salary_min": 90000,
+  "company": {
+    "display_name": "The Timberline Group",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "salary_max": 110000
+}

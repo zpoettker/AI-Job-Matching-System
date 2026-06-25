@@ -1,0 +1,33 @@
+{
+  "title": "Senior Software Engineer - GoLang and Python",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MDExNTYxOCIsInMiOiJRcmMzUGROdzhSR0N6YzZEZFZGTU9BIn0.2hxWhGcN55e8lo9Hv5y1XqNfgbQmvrVjgqgJx_Lj3tI",
+  "salary_min": 153139.28,
+  "salary_is_predicted": "1",
+  "latitude": 38.662802,
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "CGI Technologies and Solutions, Inc."
+  },
+  "salary_max": 153139.28,
+  "created": "2026-06-19T22:39:04Z",
+  "category": {
+    "tag": "it-jobs",
+    "label": "IT Jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "id": "5770115618",
+  "location": {
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Wellston"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Wellston, Saint Louis County"
+  },
+  "longitude": -90.282481,
+  "redirect_url": "https://www.adzuna.com/land/ad/5770115618?se=Qrc3PdNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=99E52C5E40833B887ACA467E076A53AC954A998E",
+  "description": "Senior Software Engineer - GoLang and Python Category: Software Development/ Engineering Main location: United States, Missouri, St. Louis Alternate Location(s): United States, Missouri, United States, Minnesota, United States, Nebraska, United States, Kansas, United States, Iowa, Position ID: J0626-1553 Employment Type: Full Time Position Description: We are seeking a highly skilled Senior Software Engineer to join our dynamic data team. In this role, you will play a pivotal part in helping sh\u2026"
+}

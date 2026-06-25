@@ -1,0 +1,35 @@
+{
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Mastercard"
+  },
+  "salary_max": 242922.89,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0tDMVB0Tnc4UkdDemM2RGRWRk1PQSIsImkiOiI1NzY4MTk4MTQ0In0.uIPBwaoePfQY1vqFRbel2kVuCsvDB7kjTDTal9WXSYQ",
+  "salary_is_predicted": "1",
+  "latitude": 38.809516,
+  "longitude": -90.71625,
+  "description": "Our Purpose Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we\u2019re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest pot\u2026",
+  "category": {
+    "tag": "engineering-jobs",
+    "label": "Engineering Jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "created": "2026-06-18T10:36:58Z",
+  "title": "Principal Software Engineer - Mastercard",
+  "salary_min": 242922.89,
+  "redirect_url": "https://www.adzuna.com/details/5768198144?utm_medium=api&utm_source=0ac86286",
+  "contract_time": "full_time",
+  "id": "5768198144",
+  "location": {
+    "display_name": "O'Fallon, Saint Louis",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis",
+      "O'Fallon"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location"
+  }
+}

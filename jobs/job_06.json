@@ -1,0 +1,33 @@
+{
+  "redirect_url": "https://www.adzuna.com/land/ad/5740538302?se=8hh3PNNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=F70C984F034A8CE93221D6B2DE0456ED489244D4",
+  "longitude": -90.33294,
+  "description": "Reinventing Geospatial (RGi) is a leading expert in geospatial solutions for Defense, Intelligence, and Federal clients. We enhance situational awareness for soldiers and analysts by integrating software development with geospatial intelligence. Our projects range from data collection to advanced deep learning, leveraging tools like Python, Java, and ArcGIS. We don't just fill roles we build teams of high performers and leaders who make an immediate impact. At our core, we're driven by innovati\u2026",
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "tag": "it-jobs",
+    "label": "IT Jobs"
+  },
+  "location": {
+    "display_name": "Riverview, Saint Louis County",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Riverview"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location"
+  },
+  "id": "5740538302",
+  "salary_max": 87525.83,
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Reinventing Geospatial, Inc. "
+  },
+  "created": "2026-05-25T12:45:01Z",
+  "salary_min": 87525.83,
+  "title": "Software Engineer with Security Clearance",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGhoM1BOTnc4UkdDemM2RGRWRk1PQSIsImkiOiI1NzQwNTM4MzAyIn0.SpSiOCvVaD-ytnfqPCD_fr8fXbhdmG5YKAIqCjHsdhc",
+  "latitude": 38.62974,
+  "salary_is_predicted": "1"
+}

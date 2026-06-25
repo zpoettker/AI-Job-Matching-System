@@ -1,0 +1,33 @@
+{
+  "latitude": 38.63037,
+  "salary_is_predicted": "1",
+  "salary_min": 151885.97,
+  "title": "Senior Software Engineer (TS/SCI) with Security Clearance",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUXJjM1BkTnc4UkdDemM2RGRWRk1PQSIsImkiOiI1NzQwNTIyNDM0In0.uSC3aHRI4dgnyNcm8lslvbSKmpA4fgUDx8ggRTNd1fM",
+  "created": "2026-05-25T12:39:35Z",
+  "salary_max": 151885.97,
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "company": {
+    "display_name": "LaunchCode",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "location": {
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Saint Louis, Saint Louis County"
+  },
+  "id": "5740522434",
+  "category": {
+    "label": "IT Jobs",
+    "tag": "it-jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "description": "Description Position Type: Direct Hire Pay: $120,000 - $160,000 annually Location: Onsite (St. Louis, MO area) Hiring Timeline: Immediate Company: The name of our partner organization will be disclosed during the interview process. This is not a direct role with LaunchCode; it is a position through LaunchCode, working with one of our partner companies. Disclaimer: We are unable to provide work sponsorship for this role. Candidates must be eligible to obtain and maintain a TS/SCI clearance and b\u2026",
+  "longitude": -90.215277,
+  "redirect_url": "https://www.adzuna.com/land/ad/5740522434?se=Qrc3PdNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=4B38B32E671E973EC9954DA407302B738311AF22"
+}

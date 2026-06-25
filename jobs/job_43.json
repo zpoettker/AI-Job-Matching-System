@@ -1,0 +1,34 @@
+{
+  "salary_min": 144032.78,
+  "company": {
+    "display_name": "RGi",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "id": "5699760652",
+  "redirect_url": "https://www.adzuna.com/details/5699760652?utm_medium=api&utm_source=0ac86286",
+  "salary_is_predicted": "1",
+  "salary_max": 144032.78,
+  "description": "Reinventing Geospatial (RGi) is a leading expert in geospatial solutions for Defense, Intelligence, and Federal clients. We enhance situational awareness for soldiers and analysts by integrating software development with geospatial intelligence. Our projects range from data collection to advanced deep learning, leveraging tools like Python, Java, and ArcGIS. Our culture is defined and anchored by three pillars: Energy: We bring passion, purpose, and urgency to our work. Edge: We take initiative\u2026",
+  "contract_time": "full_time",
+  "latitude": 38.630539,
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "location": {
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Saint Louis, Saint Louis County",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ]
+  },
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkh2X1BkTnc4UkdlbTRUQVVObHFYdyIsImkiOiI1Njk5NzYwNjUyIn0.tJkZE3GUs22yTb9XaVR8pmc1esIQ7kXUtq9Eb8rO_VI",
+  "title": "Software Engineer",
+  "longitude": -90.192822,
+  "category": {
+    "label": "IT Jobs",
+    "tag": "it-jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "created": "2026-04-15T00:15:47Z"
+}

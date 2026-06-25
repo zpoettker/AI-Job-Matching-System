@@ -1,0 +1,33 @@
+{
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "tag": "it-jobs",
+    "label": "IT Jobs"
+  },
+  "location": {
+    "display_name": "Saint Louis, Saint Louis County",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location"
+  },
+  "id": "5740637082",
+  "longitude": -90.192152,
+  "redirect_url": "https://www.adzuna.com/land/ad/5740637082?se=Qrc3PdNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=37BDF1F578A184AB2927ECE9A9C700AA2970D7AC",
+  "description": "Job Description Job Title: Senior Software Engineer Location: St. Louis, MO Security Clearance: Active TS/SCI (or SCI eligibility) We question. We listen. We adapt. Be honest. Be pragmatic. Omni Federal , a Washington, DC-based software solutions provider founded in 2017, specializes in delivering mission-critical and enterprise solutions to the federal government. Originating from the Department of Defense's software factory ecosystem, Omni focuses on Command and Control, Cybersecurity, Space,\u2026",
+  "salary_min": 160755.58,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MDYzNzA4MiIsInMiOiJRcmMzUGROdzhSR0N6YzZEZFZGTU9BIn0.inIB14JH8N8qDCTVFcd7Lrr6vWUXkIBdrgo7sd0WHx8",
+  "title": "Senior Software Engineer (TS/SCI) with Security Clearance",
+  "latitude": 38.631317,
+  "salary_is_predicted": "1",
+  "salary_max": 160755.58,
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Omni Federal"
+  },
+  "created": "2026-05-25T14:43:52Z"
+}

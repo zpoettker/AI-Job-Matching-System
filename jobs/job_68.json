@@ -1,0 +1,33 @@
+{
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "label": "IT Jobs",
+    "tag": "it-jobs"
+  },
+  "location": {
+    "display_name": "Saint Louis, Saint Louis County",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location"
+  },
+  "id": "5697238264",
+  "longitude": -90.192822,
+  "redirect_url": "https://www.adzuna.com/land/ad/5697238264?se=_KC1PtNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=917CB7D4DAF32C4BA2852CF24A1EB7C3C94E2BC4",
+  "description": "Freedom Technology Solutions Groups is looking to add a mid level Software Engineer to the team! This position is fully onsite in St. Louis, MO. Required Experience: Demonstrated firsthand experience in at least two of the following: \u25cb Java, JavaScript or Python enterprise application development \u25cb Web services architecture, design, and development \u25cb Relational database design \u25cb Spatial database design \u25cb NoSQL database design \u25cb Micro-service architecture, design and development \u25cb Containerizati\u2026",
+  "salary_min": 118078.15,
+  "title": "Mid Level Software Engineer",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5NzIzODI2NCIsInMiOiJfS0MxUHROdzhSR0N6YzZEZFZGTU9BIn0.AaXV25eGrDwfRjdsVShP3rmuKn77X_SAOxBZ5qGVOgc",
+  "latitude": 38.630539,
+  "salary_is_predicted": "1",
+  "salary_max": 118078.15,
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Freedom Technology Solutions Group"
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "created": "2026-04-11T23:37:48Z"
+}

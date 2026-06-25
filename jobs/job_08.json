@@ -1,0 +1,33 @@
+{
+  "description": "Work you'll do As a Software Engineer III , you will actively engage in your engineering craft, taking a hands-on approach to multiple high-visibility projects. Your expertise will be pivotal in delivering solutions that delight customers and users, while also driving tangible value for Deloitte's business investments. You will leverage your extensive engineering craftmanship across multiple programming languages and modern frameworks, consistently demonstrating your strong track record in deli\u2026",
+  "redirect_url": "https://www.adzuna.com/land/ad/5775692903?se=8hh3PNNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=4B1313F2B776996949EBC0F270789A1230639FC1",
+  "longitude": -90.282481,
+  "location": {
+    "display_name": "Wellston, Saint Louis County",
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Wellston"
+    ]
+  },
+  "id": "5775692903",
+  "category": {
+    "label": "IT Jobs",
+    "tag": "it-jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "created": "2026-06-24T22:44:32Z",
+  "salary_max": 141671.34,
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Deloitte"
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "latitude": 38.662802,
+  "salary_is_predicted": "1",
+  "salary_min": 141671.34,
+  "title": "Software Engineer III",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGhoM1BOTnc4UkdDemM2RGRWRk1PQSIsImkiOiI1Nzc1NjkyOTAzIn0.8t_9U4VFMCjFuLHdY2mGEpGjoiYNnnerHOo2sNjG38Y"
+}

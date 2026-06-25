@@ -1,0 +1,34 @@
+{
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "label": "IT Jobs",
+    "tag": "it-jobs"
+  },
+  "created": "2025-11-18T21:34:19Z",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwMjcwMTgzMCIsInMiOiJKSHZfUGROdzhSR2VtNFRBVU5scVh3In0.nyzLPFkysXIh6oXcCa5qcwelEWLVT_hYdY8tW-L3GYQ",
+  "longitude": -90.192822,
+  "title": "Senior Software Engineer",
+  "location": {
+    "display_name": "Saint Louis, Saint Louis County",
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ]
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "latitude": 38.630539,
+  "contract_time": "full_time",
+  "description": "Senior Software Engineer at DLS Engineering (on-site) DLS Engineering is seeking a Senior Software Engineer for a full-time position supporting a geospatial customer in St. Louis, Missouri. This is an on-site position. This role requires strong full-stack Python experience, with a focus on API development, Kubernetes deployment, and modern DevOps practices to accelerate delivery. The Senior Software Engineer will work with an existing code base learning it quickly, manipulating it for adjacent \u2026",
+  "salary_max": 126000,
+  "salary_is_predicted": "0",
+  "redirect_url": "https://www.adzuna.com/details/5502701830?utm_medium=api&utm_source=0ac86286",
+  "id": "5502701830",
+  "salary_min": 118000,
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "DLS Engineering"
+  }
+}

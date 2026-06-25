@@ -1,0 +1,33 @@
+{
+  "redirect_url": "https://www.adzuna.com/land/ad/5758267282?se=8hh3PNNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=96259F4650A634228DEB735590F855B0BF081732",
+  "longitude": -90.192822,
+  "description": "Job Description Description Leidos has an exciting opportunity for an Exploitation Specialist/GDAT Software Engineer to join our team in St. Louis, MO. This work requires skills and knowledge to modernize applications to facilitate production operations for customer. These resources will not be making major performance enhancements on GDATM Tool. Instead, they shall provide the necessary skills and experience to support customer in completing minor improvements in software functionality necessa\u2026",
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "tag": "it-jobs",
+    "label": "IT Jobs"
+  },
+  "location": {
+    "display_name": "Saint Louis, Saint Louis County",
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ]
+  },
+  "id": "5758267282",
+  "salary_max": 146413.19,
+  "company": {
+    "display_name": "Leidos",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "created": "2026-06-10T04:56:01Z",
+  "salary_min": 146413.19,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1ODI2NzI4MiIsInMiOiI4aGgzUE5OdzhSR0N6YzZEZFZGTU9BIn0.w1Wy3856_Z_jU1OQ3P6MOXzWGMnngexdA6TY8ogJCts",
+  "title": "Exploitation Specialist/GDAT Software Engineer",
+  "latitude": 38.630539,
+  "salary_is_predicted": "1"
+}

@@ -1,0 +1,33 @@
+{
+  "latitude": 38.662802,
+  "salary_is_predicted": "1",
+  "salary_min": 162363.81,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NDE1ODUyNiIsInMiOiI4aGgzUE5OdzhSR0N6YzZEZFZGTU9BIn0.MdQJJzIxi82DsGv0hiHW3rJbKXdi64CHF0Y6QtIhg5Q",
+  "title": "Lead ServiceNow Software Engineer",
+  "created": "2026-05-28T22:24:25Z",
+  "salary_max": 162363.81,
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Deloitte"
+  },
+  "location": {
+    "display_name": "Wellston, Saint Louis County",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Wellston"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location"
+  },
+  "id": "5744158526",
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "label": "IT Jobs",
+    "tag": "it-jobs"
+  },
+  "description": "As a Lead ServiceNow Software Engineer , you will actively engage in your engineering craft, taking a hands-on approach to multiple high-visibility projects. Your expertise will be pivotal in delivering solutions that delight customers and users, while also driving tangible value for Deloitte's business investments. You will leverage your extensive engineering craftmanship across multiple programming languages and modern frameworks, consistently demonstrating your strong track record in deliver\u2026",
+  "redirect_url": "https://www.adzuna.com/land/ad/5744158526?se=8hh3PNNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=EDDB16B815BCE97F900622E4A2FD7FD608A14B5A",
+  "longitude": -90.282481
+}

@@ -1,0 +1,33 @@
+{
+  "description": "Freedom Technology Solutions Groups is looking to add a senior Software Engineer to the team! This position is fully onsite in St. Louis, MO. The ideal candidate must have demonstrated firsthand experience in at least three of the following: Java, JavaScript or Python enterprise application development Web services architecture, design, and development Relational database design Spatial database design NoSQL database design Micro-service architecture, design and development Containerization and\u2026",
+  "salary_min": 148970.53,
+  "salary_max": 148970.53,
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Freedom Technology Solutions Group"
+  },
+  "latitude": 38.630539,
+  "id": "5697218643",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkh2X1BkTnc4UkdlbTRUQVVObHFYdyIsImkiOiI1Njk3MjE4NjQzIn0.u6lx58og2oH6pzKW96VgoyIxi1_b2vS4D-mpZnwZVvY",
+  "longitude": -90.192822,
+  "title": "Senior Software Engineer",
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "location": {
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Saint Louis, Saint Louis County",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ]
+  },
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "tag": "it-jobs",
+    "label": "IT Jobs"
+  },
+  "created": "2026-04-11T23:14:33Z",
+  "salary_is_predicted": "1",
+  "redirect_url": "https://www.adzuna.com/land/ad/5697218643?se=JHv_PdNw8RGem4TAUNlqXw&utm_medium=api&utm_source=0ac86286&v=34DFA10059FD68FD7D05F0BFF7A4751908FB2061"
+}

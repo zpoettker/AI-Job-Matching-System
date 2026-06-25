@@ -1,0 +1,48 @@
+ZACHARY POETTKER 
+Southern Illinois University Edwardsville | US Citizen | Belleville IL
+(618) 578 - 7250 | poettkerzach@gmail.com
+
+
+EDUCATION: 
+Southern Illinois University Edwardsville         	        	                    		     Fall 2024 – Spring 2027
+Bachelor of Science in Computer Science - Minor in Mathematics
+Southwestern Illinois College			                  			         Fall 2021 – Fall 2023
+Associate of  Arts in Business
+
+
+RELEVANT COURSEWORK: 
+Data Structures & Algorithms, Operating Systems, Database & Web Systems, Statistics for Applications, Linear Algebra
+
+
+TECHNICAL SKILLS:  
+Languages:  JavaScript, Python, C/C++, TypeScript, SQL, HTML/CSS
+Frameworks & Tools:  React, Node.js, Tailwind CSS, Streamlit, Git/GitHub, MySQL, Microsoft Office
+Concepts:  Object-Oriented Programming, Data Structures, Responsive Web Design, REST APIs
+
+
+PROJECTS:
+Stock Market Analysis Web Application 
+Developed a stock market analytics web application for tracking NYSE and NASDAQ equities and ETFs
+Integrated advanced charting, market news, financial data, and trade thesis journaling functionality
+Utilized TradingView scripts and real-time market data APIs to deliver live financial insights and visualization tools
+AI Trading Education Simulation Platform | Hackathon Project
+Collaborated in a 3-person team to develop an interactive trading education and market simulation platform during a hackathon competition using React, JSX, Python, and Firebase
+Built dynamic trading simulation features including real-time chart interaction, PnL tracking, trade execution logic, and progression-based learning modules
+Implemented educational trading scenarios focused on risk management, market analysis, and decision-making under simulated market conditions
+Job Market Intelligence Platform
+Built a full-stack analytics platform that ingests and processes 100,000+ real job listings to surface actionable skill demand trends, salary benchmarks, and hiring patterns across the tech industry
+Engineered a data pipeline for large-scale job listing ingestion, normalization, and storage, enabling structured analysis across roles, companies, and geographic markets
+
+EXPERIENCE:  
+E-commerce Business Owner		     			              	           October 2020 – January 2023
+Founded and operated an ecommerce business serving customers across 30+ countries
+Generated nearly 250,000 website visits prior to successfully selling the business in 2023
+Managed website operations, analytics, logistics, and digital marketing initiatives
+
+
+CERTIFICATIONS:  
+Anthropic AI Fluency& Foundations Certification				                          	             May 2026
+Completed certification establishing foundational knowledge of artificial intelligence concepts, core frameworks, and practical AI application principles relevant to modern software development
+Google Web Analytics Certification 							    September 2023
+Completed coursework covering website traffic analysis, user behavior tracking, audience insights, and digital performance metrics using Google Analytics
+Learned to interpret web data, evaluate engagement trends, and analyze website performance to support data-driven decision-making

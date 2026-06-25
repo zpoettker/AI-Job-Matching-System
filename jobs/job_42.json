@@ -1,0 +1,34 @@
+{
+  "category": {
+    "tag": "it-jobs",
+    "label": "IT Jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "created": "2026-06-18T10:36:55Z",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkh2X1BkTnc4UkdlbTRUQVVObHFYdyIsImkiOiI1NzY4MTk3OTM5In0.g4rmK-06Twt5Pdz67GK8aZuSm6xqWA4VmFF_7j2m4nE",
+  "title": "Senior Software Engineer - Real Time Product Engineering",
+  "longitude": -90.192822,
+  "location": {
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Saint Louis, Saint Louis County",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ]
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "latitude": 38.630539,
+  "contract_time": "full_time",
+  "description": "Senior Software Engineer - St. Louis Companies across the world face fast-changing risks. Understanding and responding to those risks is essential to long-term success. As part of our St. Louis engineering team, you will help deliver solutions that empower customers to protect their brand, make confident decisions, and move quickly in a complex environment. We're seeking a collaborative, motivated Senior Software Engineer who enjoys solving substantial problems, supporting other teams, and cont\u2026",
+  "salary_max": 114667.7,
+  "salary_is_predicted": "1",
+  "redirect_url": "https://www.adzuna.com/land/ad/5768197939?se=JHv_PdNw8RGem4TAUNlqXw&utm_medium=api&utm_source=0ac86286&v=C47E89AC14C4DBE1E382A44AD3FEFFA3CABF5BD5",
+  "id": "5768197939",
+  "salary_min": 114667.7,
+  "company": {
+    "display_name": "London Stock Exchange Group",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  }
+}

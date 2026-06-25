@@ -1,0 +1,34 @@
+{
+  "title": "Real-Time Software Engineer, News Engineering",
+  "salary_min": 129483.27,
+  "created": "2026-06-18T10:36:51Z",
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "id": "5768197599",
+  "location": {
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ],
+    "display_name": "Saint Louis, Saint Louis County"
+  },
+  "contract_time": "full_time",
+  "redirect_url": "https://www.adzuna.com/land/ad/5768197599?se=Qrc3PdNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=2E4F53B49C390372B7CC79895DCA51ACCB8DC514",
+  "salary_is_predicted": "1",
+  "latitude": 38.630539,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODE5NzU5OSIsInMiOiJRcmMzUGROdzhSR0N6YzZEZFZGTU9BIn0.Wo3LYJO59RD_y6jpu4SsS9xMI7Z2Mrl3g7d09-9E2lw",
+  "company": {
+    "display_name": "London Stock Exchange Group",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "salary_max": 129483.27,
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "label": "IT Jobs",
+    "tag": "it-jobs"
+  },
+  "description": "Help us shape the future of real-time news delivery and join a team powering the heartbeat of global information! LSEG's News Engineering group is looking for a Software Engineer to help evolve our real-time news collection and distribution platform. If you're motivated by high-performance systems, real-world impact, and incorporating modern engineering and DevOps practices in a dynamic and forward-thinking environment - this is your opportunity. About the Role This role is ideal for mid-level \u2026",
+  "longitude": -90.192822
+}

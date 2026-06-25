@@ -1,0 +1,33 @@
+{
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Collins Aerospace"
+  },
+  "salary_max": 149805.39,
+  "created": "2026-06-23T14:42:15Z",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3MzgxNTI2MyIsInMiOiI4aGgzUE5OdzhSR0N6YzZEZFZGTU9BIn0.-A3dA3D9Q04CbHTTQWuVKW6ZPSS9z5AQ19bA19bzukg",
+  "title": "Senior Software Engineer - Embedded Communications (ONSITE)",
+  "salary_min": 149805.39,
+  "salary_is_predicted": "1",
+  "latitude": 38.630539,
+  "redirect_url": "https://www.adzuna.com/land/ad/5773815263?se=8hh3PNNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=830A3CE12E09BFC85BC6E788E2D9FF936F48CB37",
+  "longitude": -90.192822,
+  "description": "Date Posted: 2026-05-29 Country: United States of America Location: US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 Position Role Type: Onsite U.S. Citizen, U.S. Person, or Immigration Status Requirements: Active and transferable U.S. government issued security clearance is required prior to start date.\u200b U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance\u200b Security Clearance Type: Secret - Current Security Clearance Status: Active and existing security cl\u2026",
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "tag": "it-jobs",
+    "label": "IT Jobs"
+  },
+  "id": "5773815263",
+  "location": {
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ],
+    "display_name": "Saint Louis, Saint Louis County"
+  }
+}

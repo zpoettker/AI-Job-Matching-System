@@ -1,0 +1,33 @@
+{
+  "salary_min": 136358.9,
+  "title": "AI Native Software Engineer",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMjA5NjM4NCIsInMiOiJRcmMzUGROdzhSR0N6YzZEZFZGTU9BIn0.ouA9-UvODDT__8yZfkdC3jt-mVQ6ozsulfGCJc4Oec8",
+  "latitude": 38.662802,
+  "salary_is_predicted": "1",
+  "salary_max": 136358.9,
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Accenture"
+  },
+  "created": "2026-04-16T22:07:48Z",
+  "category": {
+    "tag": "engineering-jobs",
+    "label": "Engineering Jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "location": {
+    "display_name": "Wellston, Saint Louis County",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Wellston"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location"
+  },
+  "id": "5702096384",
+  "redirect_url": "https://www.adzuna.com/land/ad/5702096384?se=Qrc3PdNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=378F150EC63834BDC07D1C35D3151B1BBD6C4A96",
+  "longitude": -90.282481,
+  "description": "We are: A forward-thinking services company at the forefront of AI-native innovation. We partner with enterprise clients to create next-generation, agent-powered workflows engineered to scale in real-world settings. Our engineers embed deeply with customers, moving projects beyond experimentation into operational reality. You are An AI Native Engineer with a strong foundation in building cloud-native solutions and hands-on experience designing and deploying agentic systems, especially for enter\u2026"
+}

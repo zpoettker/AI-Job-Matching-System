@@ -1,0 +1,33 @@
+{
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "company": {
+    "display_name": "GE Aerospace",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "salary_max": 119831.28,
+  "created": "2026-06-03T22:25:10Z",
+  "title": "Software Engineer AI/ML",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MTQ3MjE5NiIsInMiOiJRcmMzUGROdzhSR0N6YzZEZFZGTU9BIn0.gsCi1BDLJJul2Faonr11ZU7YWWETHTG_bhcaRf5KkdQ",
+  "salary_min": 119831.28,
+  "salary_is_predicted": "1",
+  "latitude": 38.662802,
+  "longitude": -90.282481,
+  "redirect_url": "https://www.adzuna.com/land/ad/5751472196?se=Qrc3PdNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=DEF228E9F04BA980B38555F0F45E97959F944CE4",
+  "description": "Job Description Summary The CES Business Intelligence team is building the next generation of AI-powered solutions for commercial, contracts, and operations. We're looking for an AI Engineer to help transform GE Aerospace operational data into production-grade machine learning pipelines, models, and LLM-powered applications. This is a multi-faceted engineering role. You'll spend most of your time developing AI/ML products by training models, developing applications, and creating APIs. You will \u2026",
+  "category": {
+    "label": "IT Jobs",
+    "tag": "it-jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "id": "5751472196",
+  "location": {
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Wellston"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Wellston, Saint Louis County"
+  }
+}

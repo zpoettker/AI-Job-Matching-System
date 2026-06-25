@@ -1,0 +1,33 @@
+{
+  "company": {
+    "display_name": "RELX INC",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "salary_max": 183373.77,
+  "created": "2026-04-14T22:13:11Z",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiUXJjM1BkTnc4UkdDemM2RGRWRk1PQSIsImkiOiI1Njk5NjI3MzUzIn0.bUBnaAGbAB-Wghm4EBNh3iacU0dWta64_X_AAQeZx7k",
+  "title": "Principal Software Engineer-Agentic AI",
+  "salary_min": 183373.77,
+  "salary_is_predicted": "1",
+  "latitude": 38.662802,
+  "longitude": -90.282481,
+  "redirect_url": "https://www.adzuna.com/land/ad/5699627353?se=Qrc3PdNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=BD00DF9FA047A1129519FD123BC343FCEE0BD1BE",
+  "description": "Are you a collaborative Agentic AI Engineer looking to work for a mission driven global organization ? About the team: The Elsevier Healthcare Education (EHE) Data and Content Software Engineering team is responsible for building and maintaining scalable content ingestion pipelines that power critical health education products. Our work enables flagship platforms such as Sherpath and HESI, ensuring high-quality, reliable, and timely delivery of educational content to learners and educators worl\u2026",
+  "category": {
+    "tag": "engineering-jobs",
+    "label": "Engineering Jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "id": "5699627353",
+  "location": {
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Wellston"
+    ],
+    "display_name": "Wellston, Saint Louis County"
+  }
+}

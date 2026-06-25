@@ -1,0 +1,33 @@
+{
+  "longitude": -90.297501,
+  "redirect_url": "https://www.adzuna.com/land/ad/5740562144?se=Qrc3PdNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=754DBB789CDECF12F92F52205B4EDE8A8AD3C27F",
+  "description": "Thank you for considering IT Concepts dba Kentro, where innovation drives opportunity and collaboration leads to success. Our dynamic community of experts is fully committed to advancing our customers' missions, fostering professional growth, and making a positive impact on our communities. By joining our supportive community, you will find that Kentro is dedicated to your personal and professional development. Together, we can drive meaningful change, spark innovation, and achieve extraordinar\u2026",
+  "category": {
+    "tag": "it-jobs",
+    "label": "IT Jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "location": {
+    "display_name": "Lemay, Saint Louis County",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Lemay"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location"
+  },
+  "id": "5740562144",
+  "salary_max": 130096.71,
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Kentro"
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "created": "2026-05-25T13:04:37Z",
+  "salary_min": 130096.71,
+  "title": "Mid Software Engineer (SFA) with Security Clearance",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MDU2MjE0NCIsInMiOiJRcmMzUGROdzhSR0N6YzZEZFZGTU9BIn0.eNIqdi61HZrRYDJ8M8o77TqCAq6omOKuBDkaGWc5l98",
+  "latitude": 38.522495,
+  "salary_is_predicted": "1"
+}

@@ -1,0 +1,33 @@
+{
+  "salary_is_predicted": "1",
+  "latitude": 38.615485,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0tDMVB0Tnc4UkdDemM2RGRWRk1PQSIsImkiOiI1NzIyMjYxNDM3In0.CUQwOyEKS6ZNb7At56RqVOlyggR5DJkcp0oxd2IjnXM",
+  "title": "Staff Software Engineer",
+  "salary_min": 128270.44,
+  "created": "2026-05-07T20:21:12Z",
+  "company": {
+    "display_name": "Bayer",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "salary_max": 128270.44,
+  "id": "5722261437",
+  "location": {
+    "area": [
+      "US",
+      "Illinois",
+      "Saint Clair County",
+      "East Saint Louis"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "East Saint Louis, Saint Clair County"
+  },
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "label": "Engineering Jobs",
+    "tag": "engineering-jobs"
+  },
+  "description": "At Bayer we're visionaries, driven to solve the world's toughest challenges and striving for a world where 'Health for all Hunger for none' is no longer a dream, but a real possibility. We're doing it with energy, curiosity and sheer dedication, always learning from unique perspectives of those around us, expanding our thinking, growing our capabilities and redefining 'impossible'. There are so many reasons to join us. If you're hungry to build a varied and meaningful career in a community of b\u2026",
+  "longitude": -90.128387,
+  "redirect_url": "https://www.adzuna.com/details/5722261437?utm_medium=api&utm_source=0ac86286"
+}

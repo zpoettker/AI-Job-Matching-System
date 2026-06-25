@@ -1,0 +1,35 @@
+{
+  "latitude": 38.630539,
+  "contract_type": "contract",
+  "contract_time": "full_time",
+  "description": "Company Federal Reserve Bank of St. Louis The St Louis Fed is one of 12 Reserve Banks serving all or parts of Missouri, Illinois, Indiana, Kentucky, Tennessee, Mississippi, and Arkansas with branches in Little Rock, Louisville and Memphis. The St. Louis Fed\u2019s most critical functions include promoting stable prices and economic growth, fostering a sound financial system, providing payment services to financial institutions, supporting the U.S. Treasury's financial operations, and advancing econo\u2026",
+  "salary_max": 190000,
+  "created": "2026-05-23T09:54:17Z",
+  "category": {
+    "tag": "it-jobs",
+    "label": "IT Jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "longitude": -90.192822,
+  "title": "Software Engineering Manager",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkh2X1BkTnc4UkdlbTRUQVVObHFYdyIsImkiOiI1NzM4ODUzNTIyIn0.3Kc4Skd3ATz4ezR9jC61_zFTmDgcWzC0icRE8r1dCPA",
+  "location": {
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Saint Louis, Saint Louis County",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ]
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "id": "5738853522",
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Federal Reserve Bank of Philadelphia"
+  },
+  "salary_min": 150000,
+  "salary_is_predicted": "0",
+  "redirect_url": "https://www.adzuna.com/details/5738853522?utm_medium=api&utm_source=0ac86286"
+}

@@ -1,0 +1,35 @@
+{
+  "description": "Our Purpose Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we\u2019re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest pot\u2026",
+  "longitude": -90.71625,
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "label": "IT Jobs",
+    "tag": "it-jobs"
+  },
+  "salary_max": 140682.84,
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Mastercard"
+  },
+  "latitude": 38.809516,
+  "salary_is_predicted": "1",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODE5Nzc2NyIsInMiOiJfS0MxUHROdzhSR0N6YzZEZFZGTU9BIn0.h8hlHbpmPpa5bFnMgjZ3-zgegGD7E3DEb12BmjPh66g",
+  "redirect_url": "https://www.adzuna.com/details/5768197767?utm_medium=api&utm_source=0ac86286",
+  "location": {
+    "display_name": "O'Fallon, Saint Louis",
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis",
+      "O'Fallon"
+    ]
+  },
+  "id": "5768197767",
+  "contract_time": "full_time",
+  "created": "2026-06-18T10:36:53Z",
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "salary_min": 140682.84,
+  "title": "Senior Software Engineer - Mastercard"
+}

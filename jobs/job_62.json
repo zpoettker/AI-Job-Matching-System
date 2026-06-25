@@ -1,0 +1,33 @@
+{
+  "created": "2026-04-10T02:32:40Z",
+  "salary_max": 75081.95,
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Agile Defense"
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "latitude": 38.630539,
+  "salary_is_predicted": "1",
+  "salary_min": 75081.95,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiX0tDMVB0Tnc4UkdDemM2RGRWRk1PQSIsImkiOiI1Njk1MzYzMDY0In0.7DZTrbW4Rpv1_zD7JfisI9sZqrX63MDwLr0fYXCY25k",
+  "title": "Software Engineer III",
+  "description": "About Agile Defense At Agile Defense we know that action defines the outcome and new challenges require new solutions. That\u2019s why we always look to the future and embrace change with an unmovable spirit and the courage to build for what comes next. Our vision is to bring adaptive innovation to support our nation's most important missions through the seamless integration of advanced technologies, elite minds, and unparalleled agility\u2014leveraging a foundation of speed, flexibility, and ingenuity t\u2026",
+  "longitude": -90.192822,
+  "redirect_url": "https://www.adzuna.com/details/5695363064?utm_medium=api&utm_source=0ac86286",
+  "location": {
+    "display_name": "Saint Louis, Saint Louis County",
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ]
+  },
+  "id": "5695363064",
+  "category": {
+    "tag": "it-jobs",
+    "label": "IT Jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  }
+}

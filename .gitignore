@@ -1,0 +1,12 @@
+# API keys - never commit this
+.env
+
+# Virtual environment - recreate with: pip install -r requirements.txt
+venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Mac system file
+.DS_Store

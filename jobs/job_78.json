@@ -1,0 +1,35 @@
+{
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "created": "2026-06-12T04:27:37Z",
+  "title": "PHP/Go Software Engineer",
+  "salary_min": 110800,
+  "redirect_url": "https://www.adzuna.com/details/5761145427?utm_medium=api&utm_source=0ac86286",
+  "contract_time": "full_time",
+  "id": "5761145427",
+  "location": {
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Saint Louis, Saint Louis County"
+  },
+  "company": {
+    "display_name": "Federal Reserve Bank of Philadelphia",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "salary_max": 150000,
+  "contract_type": "contract",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MTE0NTQyNyIsInMiOiJfS0MxUHROdzhSR0N6YzZEZFZGTU9BIn0.D1edFxkQ7VNhXHK45suMom7UMVOrfF-d1ytEw3To4rc",
+  "salary_is_predicted": "0",
+  "latitude": 38.630539,
+  "longitude": -90.192822,
+  "description": "Company Federal Reserve Bank of St. Louis The St Louis Fed is one of 12 Reserve Banks serving all or parts of Missouri, Illinois, Indiana, Kentucky, Tennessee, Mississippi, and Arkansas with branches in Little Rock, Louisville and Memphis. The St. Louis Fed\u2019s most critical functions include promoting stable prices and economic growth, fostering a sound financial system, providing payment services to financial institutions, supporting the U.S. Treasury's financial operations, and advancing econo\u2026",
+  "category": {
+    "label": "IT Jobs",
+    "tag": "it-jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Enterprise Mobility"
+  },
+  "salary_max": 104415.09,
+  "salary_min": 104415.09,
+  "description": "Overview As we continue to build our team in support of our vision to the be the world's best and most trusted mobility company, Enterprise Fleet Management, an affiliate of Enterprise Mobility is excited to announce the opening of a Engineer 2, Software . The Information Technology (IT) department of Enterprise Fleet Management builds and implements powerful solutions that help to drive and support the operations of our business spread across the US and Canada. Here, you will be part of a team\u2026",
+  "id": "5774301803",
+  "latitude": 38.662802,
+  "location": {
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Wellston, Saint Louis County",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Wellston"
+    ]
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "longitude": -90.282481,
+  "title": "Senior Software Engineer - ServiceNow/Javascript/API",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc3NDMwMTgwMyIsInMiOiJKSHZfUGROdzhSR2VtNFRBVU5scVh3In0.lS7q0kwbsGtHw-XKTG-GE_qEV-YW0W4tR_xkJ7VB8_E",
+  "redirect_url": "https://www.adzuna.com/land/ad/5774301803?se=JHv_PdNw8RGem4TAUNlqXw&utm_medium=api&utm_source=0ac86286&v=CE9ECF04518D239B2C8E101D9CB75E2F005935D0",
+  "created": "2026-06-23T22:58:56Z",
+  "salary_is_predicted": "1",
+  "category": {
+    "label": "IT Jobs",
+    "tag": "it-jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  }
+}

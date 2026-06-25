@@ -1,0 +1,34 @@
+{
+  "longitude": -90.192822,
+  "description": "Reinventing Geospatial (RGi) is a leading expert in geospatial solutions for Defense, Intelligence, and Federal clients. We enhance situational awareness for soldiers and analysts by integrating software development with geospatial intelligence. Our projects range from data collection to advanced deep learning, leveraging tools like Python, Java, and ArcGIS. Our culture is defined and anchored by three pillars: Energy: We bring passion, purpose, and urgency to our work. Edge: We take initiative\u2026",
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "tag": "it-jobs",
+    "label": "IT Jobs"
+  },
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "RGi"
+  },
+  "salary_max": 132589.9,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxOTUzODc1NCIsInMiOiJfS0MxUHROdzhSR0N6YzZEZFZGTU9BIn0.4tXleU_bckGzAWpkF9INHv4LAiAqRszJSvaU4pFCgSw",
+  "salary_is_predicted": "1",
+  "latitude": 38.630539,
+  "redirect_url": "https://www.adzuna.com/details/5419538754?utm_medium=api&utm_source=0ac86286",
+  "contract_time": "full_time",
+  "id": "5419538754",
+  "location": {
+    "display_name": "Saint Louis, Saint Louis County",
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ]
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "created": "2025-09-28T10:25:55Z",
+  "title": "Full Stack Software Engineer",
+  "salary_min": 132589.9
+}

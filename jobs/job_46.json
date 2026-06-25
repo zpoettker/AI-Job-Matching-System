@@ -1,0 +1,33 @@
+{
+  "id": "5707867796",
+  "latitude": 38.662802,
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Enterprise Mobility"
+  },
+  "salary_max": 104887.55,
+  "salary_min": 104887.55,
+  "description": "Overview Enterprise Mobility is a leading provider of mobility solutions, owning and operating the Enterprise Rent-A-Car, National Car Rental and Alamo Rent A Car brands through its integrated global network of independent regional subsidiaries. Enterprise Mobility and its affiliates offer extensive car rental, carsharing, truck rental, fleet management, retail car sales, as well as travel management and other transportation services, to make travel easier and more convenient for customers. Pri\u2026",
+  "redirect_url": "https://www.adzuna.com/land/ad/5707867796?se=JHv_PdNw8RGem4TAUNlqXw&utm_medium=api&utm_source=0ac86286&v=56B235EF533532E20DC05CC9D5397BBCF0CE764D",
+  "salary_is_predicted": "1",
+  "created": "2026-04-22T22:19:49Z",
+  "category": {
+    "label": "IT Jobs",
+    "tag": "it-jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "location": {
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Wellston"
+    ],
+    "display_name": "Wellston, Saint Louis County",
+    "__CLASS__": "Adzuna::API::Response::Location"
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "longitude": -90.282481,
+  "title": "Senior Software Engineer - Java/Spring/Hibernate",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkh2X1BkTnc4UkdlbTRUQVVObHFYdyIsImkiOiI1NzA3ODY3Nzk2In0.zp5igvL_mek7LFqtpCRMLl9F0kfpgJMTzUFuM5l4X7k"
+}

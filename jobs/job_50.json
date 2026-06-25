@@ -1,0 +1,33 @@
+{
+  "redirect_url": "https://www.adzuna.com/land/ad/4816957378?se=JHv_PdNw8RGem4TAUNlqXw&utm_medium=api&utm_source=0ac86286&v=AAE25123A69823143CDF6FA567851D4637583408",
+  "created": "2024-08-08T09:48:42Z",
+  "salary_is_predicted": "1",
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "label": "IT Jobs",
+    "tag": "it-jobs"
+  },
+  "location": {
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ],
+    "display_name": "Saint Louis, Saint Louis County",
+    "__CLASS__": "Adzuna::API::Response::Location"
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "longitude": -90.192822,
+  "title": "Senior Software Engineer",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkh2X1BkTnc4UkdlbTRUQVVObHFYdyIsImkiOiI0ODE2OTU3Mzc4In0.fnJqyvAMSo5G8OCwlmeq98WDXp6o2q_KVj2XdcK0PyM",
+  "id": "4816957378",
+  "latitude": 38.630539,
+  "company": {
+    "display_name": "The Timberline Group",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "salary_max": 114608.66,
+  "salary_min": 114608.66,
+  "description": "Description of role: We are looking for a Senior Software Engineer to produce and implement functional software solutions. You will work with upper management to define software requirements and take the lead on operational and technical projects. In this role, you should be able to work independently with little supervision. You should have excellent organization and problem-solving skills and be comfortable in an Agile Scrum SDLC. If you also have hands-on experience with backend software dev\u2026"
+}

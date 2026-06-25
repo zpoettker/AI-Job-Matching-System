@@ -1,0 +1,33 @@
+{
+  "salary_min": 145910.12,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGhoM1BOTnc4UkdDemM2RGRWRk1PQSIsImkiOiI1NzczODE1NDI0In0.jdfTn_Nc9GZ7EWkSwAiHf2JmSwL8g04Hh-QfELRzDdY",
+  "title": "Principal Software Engineer - Embedded Communications (Onsite)",
+  "latitude": 38.630539,
+  "salary_is_predicted": "1",
+  "salary_max": 145910.12,
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Collins Aerospace"
+  },
+  "created": "2026-06-23T14:42:21Z",
+  "category": {
+    "tag": "it-jobs",
+    "label": "IT Jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "location": {
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Saint Louis, Saint Louis County"
+  },
+  "id": "5773815424",
+  "redirect_url": "https://www.adzuna.com/land/ad/5773815424?se=8hh3PNNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=11A2B8E95F8C5489C81751E1FBB3EAE58A4A3B9E",
+  "longitude": -90.192822,
+  "description": "Date Posted: 2026-04-28 Country: United States of America Location: US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 Position Role Type: Onsite U.S. Citizen, U.S. Person, or Immigration Status Requirements: The ability to obtain and maintain a U.S. government issued security clearance is required.\u200b U.S. citizenship is required, as only U.S. citizens are eligible for a security clearance Security Clearance Type: DoD Clearance: Secret Security Clearance Status: Active and existing security clea\u2026"
+}

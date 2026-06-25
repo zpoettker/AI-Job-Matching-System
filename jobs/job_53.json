@@ -1,0 +1,34 @@
+{
+  "salary_is_predicted": "1",
+  "redirect_url": "https://www.adzuna.com/land/ad/5736321557?se=JHv_PdNw8RGem4TAUNlqXw&utm_medium=api&utm_source=0ac86286&v=E679AF5510D57458C6EEE73AB5F54A8D95912375",
+  "id": "5736321557",
+  "company": {
+    "display_name": "Radiance Technologies",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "salary_min": 191616.25,
+  "created": "2026-05-21T06:08:13Z",
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "label": "IT Jobs",
+    "tag": "it-jobs"
+  },
+  "longitude": -90.192822,
+  "title": "Senior Software Engineer",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSkh2X1BkTnc4UkdlbTRUQVVObHFYdyIsImkiOiI1NzM2MzIxNTU3In0.t92MqSipPhDSDHNHyYB-DcxbaQBlR86LSCGeV7T2OaQ",
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "location": {
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Saint Louis, Saint Louis County"
+  },
+  "latitude": 38.630539,
+  "contract_time": "full_time",
+  "description": "Radiance Technologies is an employee-owned company with benefits that are unmatched by most companies. Employee ownership, generous 401K, full health/dental/life/vision insurance benefits, paid time off, educational reimbursement, competitive salaries, interesting assignments and a pleasant work environment combine to make Radiance Technologies a great place to work and succeed. The Senior Software Engineer will perform software activities focused on assisting the Air Force move forward with di\u2026",
+  "salary_max": 191616.25
+}

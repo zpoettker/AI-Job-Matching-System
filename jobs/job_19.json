@@ -1,0 +1,33 @@
+{
+  "created": "2026-04-04T22:07:01Z",
+  "salary_max": 329430.94,
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "company": {
+    "__CLASS__": "Adzuna::API::Response::Company",
+    "display_name": "Indeed"
+  },
+  "latitude": 38.662802,
+  "salary_is_predicted": "1",
+  "salary_min": 329430.94,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5MDM0MzcxNSIsInMiOiI4aGgzUE5OdzhSR0N6YzZEZFZGTU9BIn0.RcXqaiDQYDiG4Axz0AThbc53aMNEZXM0dthTQtNTn1E",
+  "title": "Staff ML Software Engineer",
+  "description": "Our Mission As the world's number 1 job site*, our mission is to help people get jobs. We strive to cultivate an inclusive and accessible workplace where all people feel comfortable being themselves. We're looking to grow our teams with more people who share our enthusiasm for innovation and creating the best experience for job seekers. (*Comscore, Total Visits, March 2025) Day to Day As a Software Engineer IV (ML) on the Machine Learning Model Platform team at Indeed, you will be responsible f\u2026",
+  "redirect_url": "https://www.adzuna.com/land/ad/5690343715?se=8hh3PNNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=78FB4E638513917A39FA74A88A2F8551D83873D3",
+  "longitude": -90.282481,
+  "location": {
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Wellston"
+    ],
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "display_name": "Wellston, Saint Louis County"
+  },
+  "id": "5690343715",
+  "category": {
+    "__CLASS__": "Adzuna::API::Response::Category",
+    "tag": "it-jobs",
+    "label": "IT Jobs"
+  }
+}

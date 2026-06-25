@@ -1,0 +1,33 @@
+{
+  "id": "5740537582",
+  "location": {
+    "display_name": "Saint Louis, Saint Louis County",
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ]
+  },
+  "category": {
+    "tag": "it-jobs",
+    "label": "IT Jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "description": "Zolon is seeking a Senior Software Engineer to provide comprehensive software engineering support for quarterly software baseline deployments, including new capabilities, adaptive maintenance, and hardware recapitalization. This role ensures the complexity of mission-critical systems is effectively managed through systematic engineering practices. Key Responsibilities Apply a structured engineering approach to system and software design to support mission-critical operations. Determine operatio\u2026",
+  "redirect_url": "https://www.adzuna.com/land/ad/5740537582?se=8hh3PNNw8RGCzc6DdVFMOA&utm_medium=api&utm_source=0ac86286&v=1C6300D2F6ABA7E22392429A8BD6B1F01D3BFE1D",
+  "longitude": -90.192152,
+  "salary_is_predicted": "1",
+  "latitude": 38.631317,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiOGhoM1BOTnc4UkdDemM2RGRWRk1PQSIsImkiOiI1NzQwNTM3NTgyIn0.BPE95cRS41rIBQD_BkZd-JwvGcxdHU3JIzCF_V7g31k",
+  "title": "Senior Software Engineer with Security Clearance",
+  "salary_min": 126078.55,
+  "created": "2026-05-25T12:44:46Z",
+  "company": {
+    "display_name": "ZOLON TECH INC.",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "salary_max": 126078.55
+}

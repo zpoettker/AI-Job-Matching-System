@@ -1,0 +1,35 @@
+{
+  "company": {
+    "display_name": "Mastercard",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  },
+  "salary_max": 99893.98,
+  "salary_is_predicted": "1",
+  "latitude": 38.809516,
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODE5ODExNiIsInMiOiJfS0MxUHROdzhSR0N6YzZEZFZGTU9BIn0.AEOvJTAaUVWt3fUVHSdSsr1nBbgL60ZBbu7UGR-u6F8",
+  "description": "Our Purpose Mastercard powers economies and empowers people in 200 countries and territories worldwide. Together with our customers, we\u2019re helping build a sustainable economy where everyone can prosper. We support a wide range of digital payments choices, making transactions secure, simple, smart and accessible. Our technology and innovation, partnerships and networks combine to deliver a unique set of products and services that help people, businesses and governments realize their greatest pot\u2026",
+  "longitude": -90.71625,
+  "category": {
+    "label": "IT Jobs",
+    "tag": "it-jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "created": "2026-06-18T10:36:57Z",
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "title": "Software Engineer II - Mastercard",
+  "salary_min": 99893.98,
+  "redirect_url": "https://www.adzuna.com/details/5768198116?utm_medium=api&utm_source=0ac86286",
+  "id": "5768198116",
+  "location": {
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis",
+      "O'Fallon"
+    ],
+    "display_name": "O'Fallon, Saint Louis"
+  },
+  "contract_time": "full_time"
+}

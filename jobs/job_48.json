@@ -1,0 +1,34 @@
+{
+  "category": {
+    "tag": "it-jobs",
+    "label": "IT Jobs",
+    "__CLASS__": "Adzuna::API::Response::Category"
+  },
+  "created": "2026-01-12T17:11:37Z",
+  "location": {
+    "display_name": "Saint Louis, Saint Louis County",
+    "__CLASS__": "Adzuna::API::Response::Location",
+    "area": [
+      "US",
+      "Missouri",
+      "Saint Louis County",
+      "Saint Louis"
+    ]
+  },
+  "__CLASS__": "Adzuna::API::Response::Job",
+  "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4MTE4MDAyMyIsInMiOiJKSHZfUGROdzhSR2VtNFRBVU5scVh3In0.1ASHZGRdqV43Ay62nOE6IeykMGxevLTRjxldIRhHSdQ",
+  "title": "Senior Software Engineer",
+  "longitude": -90.192152,
+  "contract_time": "full_time",
+  "latitude": 38.631317,
+  "salary_max": 182097.06,
+  "description": "Duties may include: Determine operational feasibility by evaluating analysis, problem definition, requirements, solution development and proposed solutions. Document and demonstrating solutions by developing documentation, flowcharts, layouts, diagrams, charts, code comments and clear code. Develop software solutions by studying information needs; studying systems flow, data usage and work processes; investigating problem areas. Tailor and deploy software tools, processes and metrics as needed.\u2026",
+  "redirect_url": "https://www.adzuna.com/details/5581180023?utm_medium=api&utm_source=0ac86286",
+  "salary_is_predicted": "1",
+  "id": "5581180023",
+  "salary_min": 182097.06,
+  "company": {
+    "display_name": "Trinity Global Consulting",
+    "__CLASS__": "Adzuna::API::Response::Company"
+  }
+}
