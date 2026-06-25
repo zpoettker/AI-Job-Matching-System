@@ -58,7 +58,7 @@ The pipeline outputs a ranked table of the 10 most relevant job postings for the
 
 1. Clone the repository and navigate into the project folder:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/zpoettker/AI-Job-Matching-System
    ```
 
 2. Create and activate a virtual environment:
