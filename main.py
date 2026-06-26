@@ -23,7 +23,7 @@ def fetch_jobs(pages):
         "where": "Saint Louis, Missouri",
     }
 
-    os.makedirs("jobs", exist_ok=True)
+    os.makedirs("jobs", exist_ok=True) # Create job folder if it doesn't exist
     all_jobs = []
     for page in range(1, pages + 1):
         url = f"https://api.adzuna.com/v1/api/jobs/us/search/{page}"
@@ -31,9 +31,9 @@ def fetch_jobs(pages):
         all_jobs += response.json()["results"]
         print(f"Fetched page {page}")
 
-    for i in range(len(all_jobs)):
+    for i in range(len(all_jobs)): # Loop over every job we fetched
         job = all_jobs[i]
-        filename = f"job_{i + 1:02d}.json"
+        filename = f"job_{i + 1:02d}.json" 
         path = f"jobs/{filename}"
         with open(path, 'w') as f:
             json.dump(job, f, indent=2)
@@ -59,11 +59,10 @@ def preprocess_resume(path):
     with open(path, 'r') as f:
         raw = f.read()
     keep_sections = ['EDUCATION', 'RELEVANT COURSEWORK', 'TECHNICAL SKILLS', 'PROJECTS', 'EXPERIENCE']
-    # Split on section headers
-    sections = re.split(r'\n(?=[A-Z][A-Z\s]+:)', raw)
+    sections = re.split(r'\n(?=[A-Z][A-Z\s]+:)', raw) # Split on section headers
     kept = []
     for section in sections:
-        header = section.split(':')[0].strip().upper()
+        header = section.split(':')[0].strip().upper() # Grab just the header text and uppercase it
         if any(keep in header for keep in keep_sections):
             kept.append(section)
     return clean_text(' '.join(kept))
@@ -74,18 +73,18 @@ def preprocess_resume(path):
 def get_embeddings(texts):
     response = client.embeddings.create(
         model="text-embedding-3-small",
-        input=texts,
+        input=texts, # Send all texts at once in a single API call
     )
     embeddings = []
-    for item in response.data:
-        embeddings.append(item.embedding)
-    return embeddings
+    for item in response.data: # Loop through each result
+        embeddings.append(item.embedding) # Pull out the vector and add it to our list
+    return embeddings # return all vectors
 
 # PART 4: Cosine Similarity
 
 def cosine_similarity(a, b):
-    a = np.array(a)
-    b = np.array(b)
+    a = np.array(a) # Convert list a into a NumPy array so we can do math on it
+    b = np.array(b) # Convert list b into a NumPy array so we can do math on it
     return np.dot(a, b) / (np.linalg.norm(a) * np.linalg.norm(b))
 
 
@@ -99,30 +98,30 @@ def main():
 
     # PART 2: preprocess jobs and resume
     jobs = []
-    for filename in sorted(os.listdir("jobs")):
+    for filename in sorted(os.listdir("jobs")): # Go through the jobs folder in alphabetical order
         if filename.endswith(".json"):
             with open("jobs/" + filename, 'r') as f:
-                jobs.append(json.load(f))
+                jobs.append(json.load(f)) # Read it and add the job data to our list
 
     job_texts = []
-    for job in jobs:
-        job_texts.append(preprocess_job(job))
-    resume_text = preprocess_resume("resume.txt")
+    for job in jobs: # Loop through each job
+        job_texts.append(preprocess_job(job))  # Clean up the job text and add it to the list
+    resume_text = preprocess_resume("resume.txt") # Clean up and extract the relevant parts of the resume
     print(f"Preprocessed {len(job_texts)} jobs and resume")
 
     # PART 3: embed everything in one batched API call
     all_texts = [resume_text] + job_texts
-    all_embeddings = get_embeddings(all_texts)
+    all_embeddings = get_embeddings(all_texts)  # Convert all of them to vectors in one API call
     resume_embedding = all_embeddings[0]
     job_embeddings = []
 
-    for i in range(1, len(all_embeddings)):
-        job_embeddings.append(all_embeddings[i])
+    for i in range(1, len(all_embeddings)): # Loop through everything after the resume vector
+        job_embeddings.append(all_embeddings[i]) 
     print(f"generated {len(all_embeddings)} embeddings")
 
     # Part 4: Score each job with cosine similarity
     scored = []
-    for i in range(len(jobs)):
+    for i in range(len(jobs)):  #Loop through each job
         score = cosine_similarity(resume_embedding, job_embeddings[i])
         scored.append((score, i))
     scored.sort(reverse=True)
