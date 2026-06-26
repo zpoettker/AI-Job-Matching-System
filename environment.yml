@@ -1,0 +1,11 @@
+name: AI-Job-Matcher
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - openai>=1.0.0
+    - requests>=2.31.0
+    - python-dotenv>=1.0.0
+    - numpy>=1.26.0
