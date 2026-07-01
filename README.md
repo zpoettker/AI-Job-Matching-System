@@ -95,3 +95,31 @@ python main.py
 On first run, you will be prompted to choose how many pages of jobs to fetch (20 jobs per page). The jobs are saved to the `jobs/` folder and reused on future runs.
 
 Delete the folder to re-fetch fresh listings.
+
+---
+
+## Running Tests
+
+Install pytest if you haven't already:
+```bash
+pip install pytest
+```
+
+Run the test suite:
+```bash
+pytest tests/ -v
+```
+
+---
+
+## Docker
+
+Build the image:
+```bash
+docker build -t ai-job-matcher .
+```
+
+Run the container (pass your API keys at runtime):
+```bash
+docker run -it --env-file .env ai-job-matcher
+```
